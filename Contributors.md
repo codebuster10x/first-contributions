@@ -28,6 +28,7 @@
 - [Jackson Chadfield](https://github.com/j-chad)
 - [Gabriella Mara](https://github.com/gmarap)
 - [Ashutosh Jha](https://github.com/RedstonMaverick)
+- [Vaibhav Raj](https://github.com/codebuster10x)
 - [Fireworks](https://github.com/fireworks9)
 - [Saddam Hussain](https://github.com/saddamhussain734)
 - [Taruchit Goyal] (https://github.com/taruchit)
